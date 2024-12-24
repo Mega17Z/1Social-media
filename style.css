@@ -9,6 +9,7 @@ body{
     justify-content: center;
     background-color: hsl(0, 0%, 8%);
     height: 95vh;
+    padding: 15px;
 }
 
 .boite{
@@ -17,6 +18,7 @@ body{
     background-color: hsl(0, 0%, 12%);
     border-radius: 15px;
     padding: 20px;
+    /* min-height: 80vh; */
 }
 
 .boite img{
